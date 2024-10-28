@@ -16,4 +16,4 @@ My name is Wilson Forero and I am currently working as a backend developer,  and
 ## 📬 Lets Talk: 
 wilson_camilo@hotmail.com
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilson-forero-6225061ba/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilson-forero-sierra/) 
